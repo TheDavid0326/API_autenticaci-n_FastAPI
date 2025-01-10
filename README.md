@@ -17,6 +17,16 @@ Esta API proporciona endpoints para gestionar usuarios, incluyendo registro, ini
 * **Bcrypt:** Para el hash de contraseñas.
 * **MongoDB** (implicito): Se asume que se utiliza MongoDB como base de datos.
 
+### Aprendizajes Clave
+* **FastAPI:** Profundizar en el uso de FastAPI para crear APIs RESTful de manera rápida y eficiente.
+* **Autenticación** JWT: Comprender el funcionamiento de JWT para asegurar la comunicación entre cliente y servidor.
+* **Hashing de contraseñas:** Utilizar Bcrypt para almacenar contraseñas de forma segura y evitar ataques de fuerza bruta.
+* **Manejo de excepciones:** Utilizar excepciones HTTP para indicar errores y proporcionar respuestas significativas al cliente.
+* **Validación de datos:** Implementar validación de datos para garantizar la integridad de los datos ingresados por el usuario.
+* **Diseño de APIs:** Diseñar APIs RESTful siguiendo buenas prácticas y estándares.
+* **Seguridad:** Comprender los conceptos básicos de seguridad en APIs, como la protección contra ataques de inyección y la importancia de almacenar las claves de forma segura.
+* **MongoDB:** Interactuar con una base de datos NoSQL como MongoDB para almacenar y recuperar datos de usuarios.
+
 ### Estructura de la API
 * **Rutas de usuarios:** `/userdb`
 * **Rutas de autenticación:** `/auth`
