@@ -15,7 +15,7 @@ Esta API proporciona endpoints para gestionar usuarios, incluyendo registro, ini
 * **Python:** Lenguaje de programación principal.
 * **JWT:** JSON Web Tokens para autenticación.
 * **Bcrypt:** Para el hash de contraseñas.
-* **MongoDB** (implicito): Se asume que se utiliza MongoDB como base de datos.
+* **MongoDB**: Se utiliza MongoDB como base de datos.
 
 ### Aprendizajes Clave
 * **FastAPI:** Profundizar en el uso de FastAPI para crear APIs RESTful de manera rápida y eficiente.
